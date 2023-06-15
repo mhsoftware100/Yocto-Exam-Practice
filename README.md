@@ -5,9 +5,9 @@ It can serve as a study resource to prepare for Yocto-related exams or simply to
 
 ## Contents
 
-You can find a list of collapsible question/answer pair in [practices.md](practices.md) file.
+You can find a list of expandable question/answer pairs in [practices.md](practices.md) file.
 
-Each question is expandable, you can view their corresponding answers below each when expanded.
+Read questions and view their corresponding answers by expandeding them.
 
 Feel free to clone or download this repository and use it to test your Yocto knowledge.
 It's a great way to practice and reinforce your understanding of Yocto Project.
